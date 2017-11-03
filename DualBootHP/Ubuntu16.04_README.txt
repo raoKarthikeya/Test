@@ -1,0 +1,7 @@
+Hello,
+
+This is a new file created after reinstalling ubuntu 16.04.3 after the crash on HP dual boot machine on 2nd of November
+
+Thanks 
+
+
